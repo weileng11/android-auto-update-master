@@ -1,0 +1,10 @@
+
+/.gradle/
+/.idea/
+/build/
+/library/build/
+/library/library.iml
+/sample/build/
+/sample/sample.iml
+/android-auto-update.iml
+/local.properties
